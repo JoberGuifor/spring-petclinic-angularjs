@@ -36,7 +36,7 @@ import java.util.Collection;
  */
 @Service
 public class ClinicServiceImpl implements ClinicService {
-
+	//teste
     private PetRepository petRepository;
     private VetRepository vetRepository;
     private OwnerRepository ownerRepository;
